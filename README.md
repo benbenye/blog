@@ -10,7 +10,7 @@ Our blog
 ##### [解决fedora下webstorm中文字符不显示的问题](http://blog.csdn.net/wmzy1067111110/article/details/45128747")
 
 # TODOLIST
-##### [TODO-4：nodejs 实现一部漫画爬取](http://blog.csdn.net/wmzy1067111110/article/details/53994813)
+##### [TODO-4：nodejs 实现一部漫画爬取](https://github.com/benbenye/blog/issues/1)
 ##### [TODO-3：css relative and absolute](http://blog.csdn.net/wmzy1067111110/article/details/53157502)
 ##### [TODO-2：浏览器唤醒APP](http://blog.csdn.net/wmzy1067111110/article/details/52526830)
 ##### [TODO-1：数组去重方法大全](http://blog.csdn.net/wmzy1067111110/article/details/52398629)
