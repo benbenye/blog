@@ -1,7 +1,7 @@
 # blog
 Our blog
 # Fedora
-##### [fedora 21 安装webstorm10](http://blog.csdn.net/wmzy1067111110/article/details/45022239)
+##### [fedora 21 安装webstorm10](https://github.com/benbenye/blog/issues/2)
 ##### [fadora 23 dnf 更新错误](http://blog.csdn.net/wmzy1067111110/article/details/51991264")
 ##### [fedora 22 安装 elixir](http://blog.csdn.net/wmzy1067111110/article/details/50898091")
 ##### [fedora 21 安装搜狗输入法](http://blog.csdn.net/wmzy1067111110/article/details/46605121")
